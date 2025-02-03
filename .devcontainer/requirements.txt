@@ -1,0 +1,5 @@
+ipykernel
+ipywidgets
+jupyter 
+bs4
+requests
